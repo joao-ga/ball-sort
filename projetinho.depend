@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1700184273 source:c:\users\pichau\desktop\estudos\c++\projetinho\projetinho\main.cpp
+	<iostream>
+	<time.h>
+	"pilha.h"
+
+1699616052 c:\users\pichau\desktop\estudos\c++\projetinho\projetinho\pilha.h
+	<iostream>
+	<stdlib.h>
+
